@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "fullName": "Rafif Yusuf",
+      "username": "rafif",
+      "email": "rafif@gmail.com",
+      "password": "aswqdfre123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "fullName": "papam",
+      "username": "papam123",
+      "email": "papam@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Arnold",
+      "username": "arnold 123",
+      "email": "arnold@Gmail.com",
+      "password": "qwerty",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Jane",
+      "username": "Jane123",
+      "email": "Janse@mail.com",
+      "password": "asasas",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "JoneJane",
+      "username": "jone12",
+      "email": "jone@mail.com",
+      "password": "aswqdfre",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "transactions": [
+    {
+      "userId": 1,
+      "address": "Bojongsoang",
+      "recipientName": "Rafif Yusuf",
+      "totalPrice": 1606500,
+      "totalPayment": 800000,
+      "transactionsDate": "27-6-2021",
+      "transactionsItems": [
+        {
+          "userId": 1,
+          "productId": 3,
+          "price": 90000,
+          "productName": "kaos putih",
+          "productImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "quantity": 10,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 1,
+          "price": 90000,
+          "productName": "fuji",
+          "productImage": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+          "quantity": 7,
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "address": "Bojongsoang",
+      "recipientName": "Rafif Yusuf",
+      "totalPrice": 1606500,
+      "totalPayment": 1606900,
+      "transactionsDate": "27-7-2021",
+      "transactionsItems": [
+        {
+          "userId": 1,
+          "productId": 3,
+          "price": 90000,
+          "productName": "kaos putih",
+          "productImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "quantity": 10,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 1,
+          "price": 90000,
+          "productName": "fuji",
+          "productImage": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+          "quantity": 7,
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "address": "Bojongsoang",
+      "recipientName": "Rafif Yusuf",
+      "totalPrice": 1606500,
+      "totalPayment": 2606500,
+      "transactionsDate": "27-7-2021",
+      "transactionsItems": [
+        {
+          "userId": 1,
+          "productId": 3,
+          "price": 90000,
+          "productName": "kaos putih",
+          "productImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "quantity": 10,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 1,
+          "price": 90000,
+          "productName": "fuji",
+          "productImage": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+          "quantity": 7,
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "address": "Bojongsoang",
+      "recipientName": "Rafif Yusuf",
+      "totalPrice": 756000,
+      "totalPayment": 756000,
+      "transactionsDate": "28-7-2021",
+      "transactionsItems": [
+        {
+          "userId": 1,
+          "productId": 9,
+          "price": 120000,
+          "productName": "kaos gaya",
+          "productImage": "https://images.unsplash.com/flagged/photo-1556293467-7acc070563ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "quantity": 3,
+          "id": 1
+        },
+        {
+          "userId": 1,
+          "productId": 1,
+          "price": 90000,
+          "productName": "fuji",
+          "productImage": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+          "quantity": 4,
+          "id": 2
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "fuji",
+      "price": 90000,
+      "productImage": "https://images.unsplash.com/photo-1564466809058-bf4114d55352?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "description": "Kameranya bagus sangat sekali",
+      "category": "kamera"
+    },
+    {
+      "id": 3,
+      "productName": "kaos putih",
+      "price": 90000,
+      "productImage": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 5,
+      "productName": "kaos hijau",
+      "price": 90900,
+      "productImage": "https://images.unsplash.com/photo-1603320410149-db26b12d5c2b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 6,
+      "productName": "kaos merah",
+      "price": 28000,
+      "productImage": "https://images.unsplash.com/photo-1603320409990-02d834987237?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 7,
+      "productName": "kaos biru",
+      "price": 900000,
+      "productImage": "https://images.unsplash.com/photo-1589902860314-e910697dea18?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 9,
+      "productName": "kaos gaya",
+      "price": 120000,
+      "productImage": "https://images.unsplash.com/flagged/photo-1556293467-7acc070563ee?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 10,
+      "productName": "kaos kuning",
+      "price": 90000,
+      "productImage": "https://images.unsplash.com/photo-1565128354282-a6390fc125b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzR8fHQlMjBzaGlydHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Ini mantap sekali",
+      "category": "kaos"
+    },
+    {
+      "id": 11,
+      "productName": "Kalung super",
+      "price": 30000,
+      "productImage": "https://ubslifestyle.com/wp-content/uploads/2020/08/KSK0767_ARG.jpg",
+      "description": "Kalung super diamond heart"
+    },
+    {
+      "productName": "Kalung Emas",
+      "price": 4000000,
+      "productImage": "https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bmVja2xhY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Kalung mahal looo",
+      "category": "aksesoris",
+      "id": 12
+    },
+    {
+      "productName": "Kalung silver",
+      "price": 350000,
+      "productImage": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5lY2tsYWNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "description": "Diamond Heart Jewelry Necklace Pendant",
+      "category": "aksesoris",
+      "id": 13
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "productId": 13,
+      "price": 350000,
+      "productName": "Kalung silver",
+      "productImage": "https://images.unsplash.com/photo-1588444837495-c6cfeb53f32d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG5lY2tsYWNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "quantity": 2,
+      "id": 1
+    }
+  ]
+}
